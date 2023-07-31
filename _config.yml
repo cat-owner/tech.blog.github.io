@@ -1,9 +1,9 @@
 # Site settings
-title: 王元存的随笔
-SEOTitle: 王元存的随笔 | wyc Blog
+title: 王元存的技术博客
+SEOTitle: 王元存的技术博客 | Wyc Tech Blog
 header-img: img/home-bg.jpg
 email: christianwyc@foxmail.com
-description: "这里是 王元存(wangyuancun) 的个人博客，一起成长，看见更大的时间 | 要做一个有深度思考的人"
+description: "这里是 王元存(wangyuancun) 的技术博客 | 要做一个有深度程序员"
 keyword: "王元存, 博客, 个人网站, 互联网,java,个人认知, 设计"
 #url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
